@@ -5,14 +5,14 @@ Un programa pensado para resolver problemas básicos de física a través de una
 ## Descripción
 
 Este programa fue creado con el fin de resolver problemas básicos de física, de momento solo se pueden resolver problemas de propiedades de vectores sencilos, pero en un futuro se planea agregar más funcionalidades, por ejemplo:
-    - Suma de vectores
-    - Cinemática
-    - Estática
-    - Movimiento rectilíneo uniforme y uniformemente acelerado
-    - Movimiento circular uniforme y uniformemente acelerado
-    - Fuerzas
-    - Trabajo y energía
-    - Torque
+  - Suma de vectores
+  - Cinemática
+  - Estática
+  - Movimiento rectilíneo uniforme y uniformemente acelerado
+  - Movimiento circular uniforme y uniformemente acelerado
+  - Fuerzas
+  - Trabajo y energía
+  - Torque
 
 ## Preview de la aplicación
 
